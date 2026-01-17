@@ -35,7 +35,7 @@ sudo pacman -S curl jq git
 ## Installation
 1. Clone:
  ```bash
- git clone [https://github.com/litaliano00-dev/xmr-mt.git](https://github.com/litaliano00-dev/xmr-mt.git)
+ git clone https://github.com/litaliano00-dev/xmr-mt.git
  cd xmr-mt
  ```
 2. Make it executable:
