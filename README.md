@@ -43,9 +43,9 @@ sudo pacman -S curl jq git
 chmod +x xmr_track.sh
 ```
 3. Run it:
-   ```bash
-   ./xmr_track.sh
-   ```
+  ```bash
+  ./xmr_track.sh
+  ```
 
 ## Usage
 - Startup: The script will ask `What currency do you use? (EUR or USD):`. Type your choice and hit enter.
