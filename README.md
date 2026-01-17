@@ -32,7 +32,7 @@ sudo pacman -Syu
 sudo pacman -S curl jq git
 ```
 
-## For Fedora
+### For Fedora
 ```bash
 sudo dnf upgrade --refresh
 sudo dnf install curl jq git
