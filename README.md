@@ -32,6 +32,12 @@ sudo pacman -Syu
 sudo pacman -S curl jq git
 ```
 
+## For Fedora
+```bash
+sudo dnf upgrade --refresh
+sudo dnf install curl jq git
+```
+
 ## Installation
 1. Clone:
  ```bash
